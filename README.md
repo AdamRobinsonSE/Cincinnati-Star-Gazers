@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://nasamediaofday.netlify.app/
 
-![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/readme.screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/screenshot.PNG)
 
 ## How It's Made:
 

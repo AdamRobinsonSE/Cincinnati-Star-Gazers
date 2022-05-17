@@ -1,7 +1,7 @@
 # Cincinnati Star Gazers # 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** https://nasamediaofday.netlify.app/
+**Link to project:** https://cincinnatistargazers.netlify.app/
 
 ![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/screenshot.PNG)
 

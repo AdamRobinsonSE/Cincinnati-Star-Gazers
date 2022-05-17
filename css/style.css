@@ -1,0 +1,98 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+html {
+  font-size: 62.5%;
+  background: url("..//img/starsBackground.jpg");
+  background-size: cover;
+  font-family: "Titillium Web";
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+header {
+  padding: 2.5rem;
+  background-size: cover;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.6rem;
+  list-style-type: none;
+}
+
+ul a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+a:hover {
+  color: blue;
+}
+
+.item {
+  text-align: center;
+  font-size: 1.6rem;
+  color: white;
+}
+
+#explanation {
+  text-align: left;
+  font-size: 2.6rem;
+  line-height: 5rem;
+  margin: 5rem 5rem;
+}
+
+button {
+  background: white;
+  padding: 1rem;
+}
+
+button:hover {
+  color: blue;
+}
+
+#nasaImg  {
+  max-width: 100%;
+  padding: 2.5rem;
+  margin: 0 auto;
+}
+
+#nasaVid {
+  display: block;
+  margin: 0 auto;
+  height: 100vh;
+  width: 75%;
+}
+
+.hidden {
+  display: none;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+

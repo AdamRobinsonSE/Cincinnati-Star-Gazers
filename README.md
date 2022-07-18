@@ -13,7 +13,7 @@ A website built using NASA's APIs. You can select any date to see the media of t
 
 ## Optimizations
 
-In the future I want to add many more options including images captured by the Mars Rover.
+In the future I want to add many more options including images captured by the Mars Rover. I also want to go back and clean-up my client-side JavaScript after learning much more.
 
 ## Lessons Learned:
 

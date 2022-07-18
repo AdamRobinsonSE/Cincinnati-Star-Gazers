@@ -1,5 +1,5 @@
 # Cincinnati Star Gazers # 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A website built and powered by NASA APIs to view and learn about beautiful imagery taken of the cosmos.
 
 **Link to project:** https://cincinnatistargazers.netlify.app/
 
